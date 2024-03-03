@@ -1,0 +1,18 @@
+/* Basic layout and styling */
+body {
+    font-family: sans-serif;
+}
+
+header {
+    text-align: center;
+    background-color: #f0f0f0;
+    padding: 20px;
+} 
+
+#property-search {
+    /* Style search form */
+}
+
+#property-detail {
+    /* Style for property details area */
+}
